@@ -6,7 +6,7 @@
 <details>
   <summary> <strong> Array (1) </strong> </summary>
 
-> - [x] [1480. Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
+> - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
 
 </details>
 
