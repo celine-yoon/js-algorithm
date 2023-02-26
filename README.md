@@ -4,18 +4,18 @@
 
 
 <details>
-  <summary> <strong> Array (1) </strong> </summary>
+  <summary> <strong> Array (2) </strong> </summary>
 
 > - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
+> - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
 
 </details>
 
-<!-- 
 <br/>
 
 <details>
-  <summary> <strong> 배열 탐색 (7) </strong> </summary>
+  <summary> <strong> Matrix (1) </strong> </summary>
+  
+> - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
 
-> - [x] [큰 수 출력](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb01.md)
-
-</details> -->
+</details>
