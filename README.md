@@ -14,9 +14,19 @@
 <br/>
 
 <details>
-  <summary> <strong> Math (1) </strong> </summary>
+  <summary> <strong> Bit (1) </strong> </summary>
+
+> - [x] 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1342.md)
+
+</details>
+
+<br/>
+
+<details>
+  <summary> <strong> Math (2) </strong> </summary>
   
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
+> - [x] 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1342.md)
 
 </details>
 
