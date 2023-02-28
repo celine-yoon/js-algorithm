@@ -16,7 +16,7 @@
 <details>
   <summary> <strong> Math (1) </strong> </summary>
   
-> - [x] 412. [412. Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
+> - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
 
 </details>
 
@@ -34,7 +34,7 @@
 <details>
   <summary> <strong> String (1) </strong> </summary>
   
-> - [x] 412. [412. Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
+> - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
 
 </details>
 
