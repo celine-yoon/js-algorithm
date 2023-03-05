@@ -42,9 +42,28 @@
 <br/>
 
 <details>
+  <summary> <strong> List (1) </strong> </summary>
+  
+> - [x] 876. [Middle of the Linked List](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/876.md)
+
+</details>
+
+<br/>
+
+<details>
+  <summary> <strong> Pointers (1) </strong> </summary>
+  
+> - [x] 876. [Middle of the Linked List](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/876.md)
+
+</details>
+
+<br/>
+
+<details>
   <summary> <strong> String (1) </strong> </summary>
   
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
 
 </details>
+
 
