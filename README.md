@@ -23,6 +23,15 @@
 <br/>
 
 <details>
+  <summary> <strong> Hashmap (1) </strong> </summary>
+  
+> - [x] 383. [Ransom Note](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/383.md)
+
+</details>
+
+<br/>
+
+<details>
   <summary> <strong> Math (2) </strong> </summary>
   
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
@@ -60,8 +69,9 @@
 <br/>
 
 <details>
-  <summary> <strong> String (1) </strong> </summary>
+  <summary> <strong> String (2) </strong> </summary>
   
+> - [x] 383. [Ransom Note](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/383.md)
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
 
 </details>
