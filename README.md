@@ -33,6 +33,15 @@
 <br/>
 
 <details>
+  <summary> <strong> List (1) </strong> </summary>
+  
+> - [x] 876. [Middle of the Linked List](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/876.md)
+
+</details>
+
+<br/>
+
+<details>
   <summary> <strong> Math (2) </strong> </summary>
   
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
@@ -46,15 +55,6 @@
   <summary> <strong> Matrix (1) </strong> </summary>
   
 > - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
-
-</details>
-
-<br/>
-
-<details>
-  <summary> <strong> List (1) </strong> </summary>
-  
-> - [x] 876. [Middle of the Linked List](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/876.md)
 
 </details>
 
