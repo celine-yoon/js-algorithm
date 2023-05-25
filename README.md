@@ -6,6 +6,7 @@
 <details>
   <summary> <strong> Array (2) </strong> </summary>
 
+> - [x] 121. [Best Time to Buy and Sell Stock](https://github.com/celine-yoon/js-algorithm/blob/main/2023/May/121.md)
 > - [x] 724. [Find Pivot Index](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/724.md)
 > - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
 > - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
