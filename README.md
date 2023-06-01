@@ -63,8 +63,9 @@
 <br/>
 
 <details>
-  <summary> <strong> Pointers (2) </strong> </summary>
+  <summary> <strong> Pointers (3) </strong> </summary>
   
+> - [x] 141. [Linked List Cycle](https://github.com/celine-yoon/js-algorithm/blob/main/2023/May/141.md)
 > - [x] 392. [Is Subsequence](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/392.md)
 > - [x] 876. [Middle of the Linked List](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/876.md)
 
