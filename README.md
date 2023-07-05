@@ -4,8 +4,9 @@
 
 
 <details>
-  <summary> <strong> Array (2) </strong> </summary>
+  <summary> <strong> Array (5) </strong> </summary>
 
+> - [x] 88. [Merge Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/88.md)
 > - [x] 121. [Best Time to Buy and Sell Stock](https://github.com/celine-yoon/js-algorithm/blob/main/2023/May/121.md)
 > - [x] 724. [Find Pivot Index](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/724.md)
 > - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
@@ -72,6 +73,13 @@
 </details>
 
 <br/>
+
+<details>
+  <summary> <strong> Sorting (1) </strong> </summary>
+  
+> - [x] 88. [Merge Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/88.md)
+
+</details>
 
 <details>
   <summary> <strong> String (4) </strong> </summary>
