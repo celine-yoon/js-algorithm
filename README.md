@@ -65,7 +65,7 @@
 <br/>
 
 <details>
-  <summary> <strong> Pointers (3) </strong> </summary>
+  <summary> <strong> Pointers (4) </strong> </summary>
 
 > - [x] 27. [Remove Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/27.md)
 > - [x] 141. [Linked List Cycle](https://github.com/celine-yoon/js-algorithm/blob/main/2023/May/141.md)
@@ -77,7 +77,7 @@
 <br/>
 
 <details>
-  <summary> <strong> Sorting (1) </strong> </summary>
+  <summary> <strong> Sorting (2) </strong> </summary>
 
 > - [x] 27. [Remove Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/27.md)
 > - [x] 88. [Merge Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/88.md)
