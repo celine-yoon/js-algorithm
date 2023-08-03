@@ -4,13 +4,14 @@
 
 
 <details>
-  <summary> <strong> Array (8) </strong> </summary>
+  <summary> <strong> Array (9) </strong> </summary>
 
 > - [x] 26. [Remove Duplicates from Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/26.md)
 > - [x] 27. [Remove Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/27.md)
 > - [x] 80. [Remove Duplicates from Sorted Array II](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/80.md)
 > - [x] 88. [Merge Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/88.md)
 > - [x] 121. [Best Time to Buy and Sell Stock](https://github.com/celine-yoon/js-algorithm/blob/main/2023/May/121.md)
+> - [x] 169. [Majority Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/169.md)
 > - [x] 724. [Find Pivot Index](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/724.md)
 > - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
 > - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
@@ -29,8 +30,9 @@
 <br/>
 
 <details>
-  <summary> <strong> Hashmap (2) </strong> </summary>
+  <summary> <strong> Hashmap (3) </strong> </summary>
   
+> - [x] 169. [Majority Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/169.md)
 > - [x] 205. [Isomorphic Strings](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/205.md)  
 > - [x] 383. [Ransom Note](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/383.md)
 
