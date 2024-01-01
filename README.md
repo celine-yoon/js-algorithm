@@ -99,6 +99,7 @@
 > - [x] 392. [Is Subsequence](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/392.md)
 > - [x] 383. [Ransom Note](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/383.md)
 > - [x] 412. [Fizz Buzz](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/412.md)
+> - [x] 2667. [Create Hello World Function](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2667.md)
 
 </details>
 
