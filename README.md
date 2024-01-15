@@ -1,5 +1,6 @@
 # js-algorithm
 
+
 ### [LeetCode](https://leetcode.com/problemset/all/) Algorithm Problems
 
 
@@ -24,6 +25,18 @@
   <summary> <strong> Bit (1) </strong> </summary>
 
 > - [x] 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1342.md)
+
+</details>
+
+<br/>
+
+<details>
+  <summary> <strong> Closures (4) </strong> </summary>
+
+> - [x] 2620. [Counter](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2620.md)
+> - [x] 2665. [Counter II](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2665.md)
+> - [x] 2667. [Create Hello World Function](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2667.md)
+> - [x] 2704. [To Be Or Not To Be](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2704.md)
 
 </details>
 
