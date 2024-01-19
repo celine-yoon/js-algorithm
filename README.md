@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary> <strong> Array (9) </strong> </summary>
+  <summary> <strong> Array (11) </strong> </summary>
 
 > - [x] 26. [Remove Duplicates from Sorted Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/26.md)
 > - [x] 27. [Remove Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/27.md)
@@ -16,6 +16,7 @@
 > - [x] 724. [Find Pivot Index](https://github.com/celine-yoon/js-algorithm/blob/main/2023/March/724.md)
 > - [x] 1480. [Running Sum of 1d Array](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1480.md)
 > - [x] 1672. [Richest Customer Wealth](https://github.com/celine-yoon/js-algorithm/blob/main/2023/Feb/1672.md)
+> - [x] 2634. [Filter Elements from Array](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2634.md)
 > - [x] 2635. [Apply Transform Over Each Element in Array](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2635.md)
 
 </details>
