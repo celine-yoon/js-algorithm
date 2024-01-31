@@ -46,6 +46,15 @@
 <br/>
 
 <details>
+  <summary> <strong> Function (1) </strong> </summary>
+
+> - [x] 2629. [Function Composition](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2629.md)
+
+</details>
+
+<br/>
+
+<details>
   <summary> <strong> Hashmap (3) </strong> </summary>
   
 > - [x] 169. [Majority Element](https://github.com/celine-yoon/js-algorithm/blob/main/2023/July/169.md)
