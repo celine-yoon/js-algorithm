@@ -46,9 +46,10 @@
 <br/>
 
 <details>
-  <summary> <strong> Function (1) </strong> </summary>
+  <summary> <strong> Function (2) </strong> </summary>
 
 > - [x] 2629. [Function Composition](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Jan/2629.md)
+> - [x] 2703. [Return Length of Arguments Passed](https://github.com/celine-yoon/js-algorithm/blob/main/2024/Feb/2703.md)
 
 </details>
 
