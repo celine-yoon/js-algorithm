@@ -1,8 +1,7 @@
 # js-algorithm
 
 
-### [LeetCode](https://leetcode.com/problemset/all/) Algorithm Problems
-
+### [LeetCode](https://leetcode.com/problemset/all/) / [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) Algorithm Problems
 
 <details>
   <summary> <strong> Array (12) </strong> </summary>
